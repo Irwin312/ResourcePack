@@ -1,0 +1,96 @@
+{
+"heartbeatin": {
+"replace": false,
+"sounds": ["picture_effects/heartbeatin"]},
+"heartbeatout": {
+"replace": false,
+"sounds": ["picture_effects/heartbeatout"]},
+
+"lf2_086": {
+"replace": false,
+"sounds": ["lf2/086"]},
+"lf2_090": {
+"replace": false,
+"sounds": ["lf2/090"]},
+"lf2_freeze_ww": {
+"replace": false,
+"sounds": ["lf2/freeze_ww"]},
+"lf2_darkdavis_c": {
+"replace": false,
+"sounds": ["lf2/darkdavis_c"]},
+"lf2_darkdavis_col": {
+"replace": false,
+"sounds": ["lf2/darkdavis_col"]},
+"lf2_damge1": {
+"replace": false,
+"sounds": ["lf2/lf2_damge1"]},
+"lf2_damge2": {
+"replace": false,
+"sounds": ["lf2/lf2_damge2"]},
+"lf2_skillstart1": {
+"replace": false,
+"sounds": ["lf2/lf2_skillstart1"]},
+"lf2_skillstart12": {
+"replace": false,
+"sounds": ["lf2/lf2_skillstart12"]},
+"lf2_skilltime1": {
+"replace": false,
+"sounds": ["lf2/lf2_skilltime1"]},
+
+
+"ab_heal_effect": {
+"replace": false,
+"sounds": ["skills/ab_heal_effect"]},
+"skills_casttime": {
+"replace": false,
+"sounds": ["skills/casttime"]},
+"skills_magnumbreak": {
+"replace": false,
+"sounds": ["skills/magnumbreak"]},
+"skills_rk_endure": {
+"replace": false,
+"sounds": ["skills/rk_endure"]},
+"skills_rk_swordmanprovoke": {
+"replace": false,
+"sounds": ["skills/rk_swordmanprovoke"]},
+"skills_soc_firewall": {
+"replace": false,
+"sounds": ["skills/soc_firewall"]},
+"skills_soc_collapsed": {
+"replace": false,
+"sounds": ["skills/soc_collapsed"]},
+"skills_soc_coin3": {
+"replace": false,
+"sounds": ["skills/soc_coin3"]},
+"skills_soc_thunderstorm": {
+"replace": false,
+"sounds": ["skills/soc_thunderstorm"]},
+
+"levelup": {
+"replace": false,
+"sounds": ["attack/levelup"]},
+"_acolyte_hit": {
+"replace": false,
+"sounds": ["attack/_acolyte_hit"]},
+"critical_flesh_01": {
+"replace": false,
+"sounds": ["attack/critical_flesh_01"]},
+"magician_hit": {
+"replace": false,
+"sounds": ["attack/magician_hit"]},
+"attack_attack_dagger": {
+"replace": false,
+"sounds": ["attack/_attack_dagger"]},
+"attack_hit_arrow": {
+"replace": false,
+"sounds": ["attack/_hit_arrow"]},
+"attack_sword1": {
+"replace": false,
+"sounds": ["attack/sword1"]},
+
+"gui_click": {
+"replace": false,
+"sounds": ["gui/click"]}
+
+
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "custom/leather_helmet",
+    "layer1": "custom/leather_helmet_overlay"
+  }
+}

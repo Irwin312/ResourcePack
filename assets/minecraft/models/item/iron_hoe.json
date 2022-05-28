@@ -1,0 +1,36 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "item/iron_hoe"
+  },
+  "overrides": [
+    { "predicate": { "damage": 0 }, "model": "item/slots/fill" },
+    { "predicate": { "damaged": 0, "damage": 0.004 }, "model": "item/slots/workbench_button" },
+    { "predicate": { "damaged": 0, "damage": 0.008 }, "model": "item/slots/info" },
+    { "predicate": { "damaged": 0, "damage": 0.012 }, "model": "item/slots/helmet" },
+    { "predicate": { "damaged": 0, "damage": 0.016 }, "model": "item/slots/chestplate" },
+    { "predicate": { "damaged": 0, "damage": 0.02 }, "model": "item/slots/leggings" },
+    { "predicate": { "damaged": 0, "damage": 0.024 }, "model": "item/slots/boots" },
+    { "predicate": { "damaged": 0, "damage": 0.028 }, "model": "item/slots/gloves" },
+    { "predicate": { "damaged": 0, "damage": 0.032 }, "model": "item/slots/weapon" },
+    { "predicate": { "damaged": 0, "damage": 0.036 }, "model": "item/slots/shield" },
+    { "predicate": { "damaged": 0, "damage": 0.04 }, "model": "item/slots/elytra" },
+    { "predicate": { "damaged": 0, "damage": 0.044 }, "model": "item/slots/ring" },
+    { "predicate": { "damaged": 0, "damage": 0.048 }, "model": "item/slots/amulet" },
+    { "predicate": { "damaged": 0, "damage": 0.052 }, "model": "item/slots/pet" },
+    { "predicate": { "damaged": 0, "damage": 0.056 }, "model": "item/slots/backpack" },
+    { "predicate": { "damaged": 0, "damage": 0.06 }, "model": "item/slots/artifact" },
+    { "predicate": { "damaged": 0, "damage": 0.064 }, "model": "item/slots/empty" },
+    { "predicate": { "damaged": 0, "damage": 0.068 }, "model": "item/slots/buyable" },
+    { "predicate": { "damaged": 0, "damage": 0.072 }, "model": "item/slots/locked" },
+    { "predicate": { "damaged": 0, "damage": 0.076 }, "model": "item/backpacks/small" },
+    { "predicate": { "damaged": 0, "damage": 0.08 }, "model": "item/backpacks/medium" },
+    { "predicate": { "damaged": 0, "damage": 0.084 }, "model": "item/backpacks/large" },
+    { "predicate": { "damaged": 0, "damage": 0.088 }, "model": "item/items/ring" },
+    { "predicate": { "damaged": 0, "damage": 0.092 }, "model": "item/items/gloves" },
+    { "predicate": { "damaged": 0, "damage": 0.096 }, "model": "item/items/amulet" },
+    { "predicate": { "damaged": 0, "damage": 0.1 }, "model": "item/items/scroll" },
+    { "predicate": { "damaged": 0, "damage": 0.104 }, "model": "item/slots/extendable" },
+    { "predicate": { "damaged": 1 }, "model": "item/iron_hoe" }
+  ]
+}

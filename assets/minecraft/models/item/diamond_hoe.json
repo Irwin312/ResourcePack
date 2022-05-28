@@ -1,0 +1,1070 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "item/diamond_hoe"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "custom/diamond_hoe_1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "custom/diamond_hoe_2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "custom/diamond_hoe_3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4
+      },
+      "model": "custom/diamond_hoe_4"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5
+      },
+      "model": "custom/diamond_hoe_5"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6
+      },
+      "model": "custom/diamond_hoe_6"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 7
+      },
+      "model": "custom/diamond_hoe_7"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8
+      },
+      "model": "custom/diamond_hoe_8"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9
+      },
+      "model": "custom/diamond_hoe_9"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10
+      },
+      "model": "custom/diamond_hoe_10"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11
+      },
+      "model": "custom/diamond_hoe_11"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 12
+      },
+      "model": "custom/diamond_hoe_12"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 13
+      },
+      "model": "custom/diamond_hoe_13"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 14
+      },
+      "model": "custom/diamond_hoe_14"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 15
+      },
+      "model": "custom/diamond_hoe_15"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 16
+      },
+      "model": "custom/diamond_hoe_16"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 17
+      },
+      "model": "custom/diamond_hoe_17"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 18
+      },
+      "model": "custom/diamond_hoe_18"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 19
+      },
+      "model": "custom/diamond_hoe_19"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20
+      },
+      "model": "custom/diamond_hoe_20"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 21
+      },
+      "model": "custom/diamond_hoe_21"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 22
+      },
+      "model": "custom/diamond_hoe_22"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30
+      },
+      "model": "custom/diamond_hoe_30"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 31
+      },
+      "model": "custom/diamond_hoe_31"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 40
+      },
+      "model": "custom/diamond_hoe_40"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 41
+      },
+      "model": "custom/diamond_hoe_41"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 42
+      },
+      "model": "custom/diamond_hoe_42"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 43
+      },
+      "model": "custom/diamond_hoe_43"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 44
+      },
+      "model": "custom/diamond_hoe_44"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 45
+      },
+      "model": "custom/diamond_hoe_45"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 46
+      },
+      "model": "custom/diamond_hoe_46"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 47
+      },
+      "model": "custom/diamond_hoe_47"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 48
+      },
+      "model": "custom/diamond_hoe_48"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 49
+      },
+      "model": "custom/diamond_hoe_49"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 50
+      },
+      "model": "custom/diamond_hoe_50"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 51
+      },
+      "model": "custom/diamond_hoe_51"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 52
+      },
+      "model": "custom/diamond_hoe_52"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 53
+      },
+      "model": "custom/diamond_hoe_53"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 55
+      },
+      "model": "custom/diamond_hoe_55"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 60
+      },
+      "model": "custom/diamond_hoe_60"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 61
+      },
+      "model": "custom/diamond_hoe_61"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 62
+      },
+      "model": "custom/diamond_hoe_62"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 63
+      },
+      "model": "custom/diamond_hoe_63"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 64
+      },
+      "model": "custom/diamond_hoe_64"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 65
+      },
+      "model": "custom/diamond_hoe_65"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 67
+      },
+      "model": "custom/diamond_hoe_67"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 80
+      },
+      "model": "custom/diamond_hoe_80"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100
+      },
+      "model": "custom/diamond_hoe_100"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 201
+      },
+      "model": "custom/diamond_hoe_201"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 202
+      },
+      "model": "custom/diamond_hoe_202"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 203
+      },
+      "model": "custom/diamond_hoe_203"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 204
+      },
+      "model": "custom/diamond_hoe_204"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 205
+      },
+      "model": "custom/diamond_hoe_205"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 206
+      },
+      "model": "custom/diamond_hoe_206"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 207
+      },
+      "model": "custom/diamond_hoe_207"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 208
+      },
+      "model": "custom/diamond_hoe_208"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 209
+      },
+      "model": "custom/diamond_hoe_209"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 210
+      },
+      "model": "custom/diamond_hoe_210"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 211
+      },
+      "model": "custom/diamond_hoe_211"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 212
+      },
+      "model": "custom/diamond_hoe_212"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 213
+      },
+      "model": "custom/diamond_hoe_213"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 214
+      },
+      "model": "custom/diamond_hoe_214"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 300
+      },
+      "model": "custom/diamond_hoe_300"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 301
+      },
+      "model": "custom/diamond_hoe_301"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 302
+      },
+      "model": "custom/diamond_hoe_302"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 303
+      },
+      "model": "custom/diamond_hoe_303"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 304
+      },
+      "model": "custom/diamond_hoe_304"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 305
+      },
+      "model": "custom/diamond_hoe_305"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 306
+      },
+      "model": "custom/diamond_hoe_306"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 307
+      },
+      "model": "custom/diamond_hoe_307"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 308
+      },
+      "model": "custom/diamond_hoe_308"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 309
+      },
+      "model": "custom/diamond_hoe_309"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 310
+      },
+      "model": "custom/diamond_hoe_310"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 311
+      },
+      "model": "custom/diamond_hoe_311"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 312
+      },
+      "model": "custom/diamond_hoe_312"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 313
+      },
+      "model": "custom/diamond_hoe_313"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 314
+      },
+      "model": "custom/diamond_hoe_314"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 315
+      },
+      "model": "custom/diamond_hoe_315"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 316
+      },
+      "model": "custom/diamond_hoe_316"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 317
+      },
+      "model": "custom/diamond_hoe_317"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 318
+      },
+      "model": "custom/diamond_hoe_318"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 319
+      },
+      "model": "custom/diamond_hoe_319"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 320
+      },
+      "model": "custom/diamond_hoe_320"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 321
+      },
+      "model": "custom/diamond_hoe_321"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 322
+      },
+      "model": "custom/diamond_hoe_322"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 323
+      },
+      "model": "custom/diamond_hoe_323"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 324
+      },
+      "model": "custom/diamond_hoe_324"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 325
+      },
+      "model": "custom/diamond_hoe_325"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 326
+      },
+      "model": "custom/diamond_hoe_326"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 327
+      },
+      "model": "custom/diamond_hoe_327"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 328
+      },
+      "model": "custom/diamond_hoe_328"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 329
+      },
+      "model": "custom/diamond_hoe_329"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 330
+      },
+      "model": "custom/diamond_hoe_330"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 331
+      },
+      "model": "custom/diamond_hoe_331"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 332
+      },
+      "model": "custom/diamond_hoe_332"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 333
+      },
+      "model": "custom/diamond_hoe_333"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 334
+      },
+      "model": "custom/diamond_hoe_334"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 335
+      },
+      "model": "custom/diamond_hoe_335"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 336
+      },
+      "model": "custom/diamond_hoe_336"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 337
+      },
+      "model": "custom/diamond_hoe_337"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 338
+      },
+      "model": "custom/diamond_hoe_338"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 339
+      },
+      "model": "custom/diamond_hoe_339"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 340
+      },
+      "model": "custom/diamond_hoe_340"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 341
+      },
+      "model": "custom/diamond_hoe_341"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 342
+      },
+      "model": "custom/diamond_hoe_342"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 343
+      },
+      "model": "custom/diamond_hoe_343"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 344
+      },
+      "model": "custom/diamond_hoe_344"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 345
+      },
+      "model": "custom/diamond_hoe_345"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 346
+      },
+      "model": "custom/diamond_hoe_346"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 347
+      },
+      "model": "custom/diamond_hoe_347"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 348
+      },
+      "model": "custom/diamond_hoe_348"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 349
+      },
+      "model": "custom/diamond_hoe_349"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 350
+      },
+      "model": "custom/diamond_hoe_350"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 351
+      },
+      "model": "custom/diamond_hoe_351"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 352
+      },
+      "model": "custom/diamond_hoe_352"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 353
+      },
+      "model": "custom/diamond_hoe_353"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 354
+      },
+      "model": "custom/diamond_hoe_354"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 355
+      },
+      "model": "custom/diamond_hoe_355"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 356
+      },
+      "model": "custom/diamond_hoe_356"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 357
+      },
+      "model": "custom/diamond_hoe_357"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 358
+      },
+      "model": "custom/diamond_hoe_358"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 359
+      },
+      "model": "custom/diamond_hoe_359"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 360
+      },
+      "model": "custom/diamond_hoe_360"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 361
+      },
+      "model": "custom/diamond_hoe_361"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 362
+      },
+      "model": "custom/diamond_hoe_362"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 363
+      },
+      "model": "custom/diamond_hoe_363"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 364
+      },
+      "model": "custom/diamond_hoe_364"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 365
+      },
+      "model": "custom/diamond_hoe_365"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 366
+      },
+      "model": "custom/diamond_hoe_366"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 367
+      },
+      "model": "custom/diamond_hoe_367"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 368
+      },
+      "model": "custom/diamond_hoe_368"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 369
+      },
+      "model": "custom/diamond_hoe_369"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 370
+      },
+      "model": "custom/diamond_hoe_370"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 371
+      },
+      "model": "custom/diamond_hoe_371"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 372
+      },
+      "model": "custom/diamond_hoe_372"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 373
+      },
+      "model": "custom/diamond_hoe_373"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 374
+      },
+      "model": "custom/diamond_hoe_374"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 375
+      },
+      "model": "custom/diamond_hoe_375"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 376
+      },
+      "model": "custom/diamond_hoe_376"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 377
+      },
+      "model": "custom/diamond_hoe_377"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 378
+      },
+      "model": "custom/diamond_hoe_378"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 379
+      },
+      "model": "custom/diamond_hoe_379"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 380
+      },
+      "model": "custom/diamond_hoe_380"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 381
+      },
+      "model": "custom/diamond_hoe_381"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 382
+      },
+      "model": "custom/diamond_hoe_382"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 383
+      },
+      "model": "custom/diamond_hoe_383"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 384
+      },
+      "model": "custom/diamond_hoe_384"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 385
+      },
+      "model": "custom/diamond_hoe_385"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 386
+      },
+      "model": "custom/diamond_hoe_386"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 387
+      },
+      "model": "custom/diamond_hoe_387"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 388
+      },
+      "model": "custom/diamond_hoe_388"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 389
+      },
+      "model": "custom/diamond_hoe_389"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 390
+      },
+      "model": "custom/diamond_hoe_390"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 391
+      },
+      "model": "custom/diamond_hoe_391"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 392
+      },
+      "model": "custom/diamond_hoe_392"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 393
+      },
+      "model": "custom/diamond_hoe_393"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 394
+      },
+      "model": "custom/diamond_hoe_394"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 395
+      },
+      "model": "custom/diamond_hoe_395"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 396
+      },
+      "model": "custom/diamond_hoe_396"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 397
+      },
+      "model": "custom/diamond_hoe_397"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 398
+      },
+      "model": "custom/diamond_hoe_398"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 399
+      },
+      "model": "custom/diamond_hoe_399"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 400
+      },
+      "model": "custom/diamond_hoe_400"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 401
+      },
+      "model": "custom/diamond_hoe_401"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 402
+      },
+      "model": "custom/diamond_hoe_402"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 403
+      },
+      "model": "custom/diamond_hoe_403"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 404
+      },
+      "model": "custom/diamond_hoe_404"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 405
+      },
+      "model": "custom/diamond_hoe_405"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 901
+      },
+      "model": "custom/diamond_hoe_901"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 902
+      },
+      "model": "custom/diamond_hoe_902"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 903
+      },
+      "model": "custom/diamond_hoe_903"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 904
+      },
+      "model": "custom/diamond_hoe_904"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 905
+      },
+      "model": "custom/diamond_hoe_905"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 906
+      },
+      "model": "custom/diamond_hoe_906"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1000
+      },
+      "model": "custom/diamond_hoe_1000"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1001
+      },
+      "model": "custom/diamond_hoe_1001"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1002
+      },
+      "model": "custom/diamond_hoe_1002"
+    }
+  ]
+}

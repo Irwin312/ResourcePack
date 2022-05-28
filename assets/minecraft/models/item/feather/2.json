@@ -1,0 +1,30 @@
+{
+	"credit": "Made with Blockbench",
+  "gui_light": "front",
+	"textures": {
+		"layer0": "item/feather/2"
+	},
+	"elements": [
+		{
+			"from": [2, 0, 2],
+			"to": [14, 32, 14],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#layer0"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#layer0"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#layer0"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#layer0"},
+				"up": {"uv": [1.81443, 1.64948, 13.81443, 13.64948], "texture": "#layer0"},
+				"down": {"uv": [2.14433, 2.14433, 14.14433, 14.14433], "texture": "#layer0"}
+			}
+		}
+	],
+	"display": {
+		"ground": {
+			"scale": [2, 2, 2]
+		},
+		"head": {
+			"translation": [0, -11, 0],
+			"scale": [4, 4, 4]
+		}
+	}
+}

@@ -1,0 +1,5 @@
+Contribution:
+- FishyMint (Mythic Base)
+- Blutkrone (RPGCore)
+- https://game-icons.net/
+- https://github.com/AscensionGameDev/Intersect-Assets

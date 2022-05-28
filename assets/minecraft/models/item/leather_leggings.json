@@ -1,0 +1,28 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "custom/leather_leggings",
+    "layer1": "custom/leather_leggings_overlay"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 20
+      },
+      "model": "custom/leather_leggings_20"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 21
+      },
+      "model": "custom/leather_leggings_21"
+    },
+    {
+      "predicate": {
+        "damaged": 1,
+        "damage": 0.0
+      },
+      "model": "custom/leather_leggings"
+    }
+  ]
+}

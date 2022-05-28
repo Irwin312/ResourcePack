@@ -1,0 +1,31 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"1": "block/frosted_ice_0",
+		"particle": "block/frosted_ice_0"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 20, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 0]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"gui": {
+			"translation": [0, 3.25, 0]
+		},
+		"head": {
+			"translation": [0, -19.5, 0],
+			"scale": [4, 4, 4]
+		}
+	}
+}
